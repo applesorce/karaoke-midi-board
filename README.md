@@ -7,7 +7,7 @@ MIT License
 ## Author,thanks
 applesorce, 2025  
 denno enzanki, 2025  
-bakuteikozo,2025  
+bakuteikozo, 2025  
 
 # これは何？
 
@@ -106,25 +106,15 @@ DACも2個乗っており、ステレオで2系統出力あり
 以下調査中につき未完成
 ~~~
 赤いところをpin1としてカウント,上下にピンカウントするものとする
-1.MIDI-OUTA
-2.MIDI-OUTB
-3.MIDI-OUTC
-4.MIDI-INA
-5.MIDI-INB
-6.MIDI-INC
-7.MIDI-IND
-8.MIDI-INE
-9.BCO(BitClock?)
-10.SYW(LRCK?)
-11.SDOUT0(DATA0)
-12.SDOUT1(DATA1)
-13.SDIN0
-14.SDIN1
-15.SDIN2
-16.SDIN3
-17./RESET
-18.GND
-19.256fs
-20.GND
+2.MIDI-OUTB,   1.MIDI-OUTA
+4.MIDI-INA,    3.MIDI-OUTC
+6.MIDI-INC,    5.MIDI-INB
+8.MIDI-INE,    7.MIDI-IND
+10.SYW(LRCK?), 9.BCO(BitClock?)
+12.SDOUT1(DATA1),11.SDOUT0(DATA0)
+14.SDIN1,      13.SDIN0
+16.SDIN3,      15.SDIN2
+18.GND,        17./RESET
+20.GND,        19.256fs
 ~~~
 Sound formatは未調査。
