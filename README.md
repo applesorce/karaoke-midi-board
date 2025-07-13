@@ -91,7 +91,7 @@ R5との違いはさほどない。
 - JS-W1（ジョイサウンド）
 02-SCH-BR2
 
-![js-w1](images/JS-W1-02-SCH-BR2.jpg)
+![js-w1](images/JS-W1_02-SCH-BR2.jpg)
 
 # Yamaha系
 - DAM-G50,DAM-G128  
