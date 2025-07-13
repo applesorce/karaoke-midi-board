@@ -59,7 +59,7 @@ DAM系はサウンドモジュールが最下層にあるため、野ざらし�
 クロスケーブル付き  
 DAM系はサウンドモジュールが最下層にあるため、野ざらし個体の場合サビがうつってる場合あり。  
 
-![DAM-G30](images\DAM-G-30_03-SC-R4.jpg)
+![DAM-G30](images/DAM-G-30_03-SC-R4.jpg)
 
 - JS-30-VL(ジョイサウンド)
 03-SC-R4  
@@ -68,14 +68,14 @@ JS-30と見比べづらいが、HypoerjoyのロゴがついていればVL
 R5との違いはさほどない。  
 ケースを開けてすぐ取り出せるので優秀。  
 
-![JS-30-VL](images\JS-30vl-03-SC-R4.jpg)
+![JS-30-VL](images/JS-30vl-03-SC-R4.jpg)
 
 - JS-30
 03-SC-R  
 クロスケーブル付き  
 構成はR5,R4とほぼ同じ  
 
-![JS-30](images\JS-30-03-SC-R.jpg)
+![JS-30](images/JS-30-03-SC-R.jpg)
 
 - BMB neon-R NMU-R10(UGA)
 01-SC-NK2    
@@ -84,14 +84,14 @@ R5との違いはさほどない。
 ***付属のケーブルはストレートなので、上のR4やR5の再生ボードにそのままつなぐと壊れます！***  
 モデムのすぐ裏についてる。これも取り外しは容易
 
-![BMB](images\NMU-R10-01-SC-NK2.jpg)
+![BMB](images/NMU-R10-01-SC-NK2.jpg)
 
 ## 不明
 
 - JS-W1（ジョイサウンド）
 02-SCH-BR2
 
-![js-w1](images\JS-W1-02-SCH-BR2.jpg)
+![js-w1](images/JS-W1-02-SCH-BR2.jpg)
 
 # Yamaha系
 - DAM-G50,DAM-G128  
@@ -100,9 +100,9 @@ YAMAHA系のボード、音源構成はまだ不明だが、部品が並列で�
 DACも2個乗っており、ステレオで2系統出力あり
 電源は5v,GND,+12V,COM,-12Vが必要
 
-![DAM-G50](images\DAM-G50-XU9477.jpg)
+![DAM-G50](images/DAM-G50-XU9477.jpg)
 
-![DAM-G128](images\XU9477-pinout.jpg)
+![DAM-G128](images/XU9477-pinout.jpg)
 以下調査中につき未完成
 ~~~
 赤いところをpin1としてカウント,上下にピンカウントするものとする
