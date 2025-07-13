@@ -75,7 +75,7 @@ R5との違いはさほどない。
 クロスケーブル付き  
 構成はR5,R4とほぼ同じ  
 
-![JS-30](images/JS-30-03-SC-R.jpg)
+![JS-30](images/js-30-03-SC-R.jpg)
 
 - BMB neon-R NMU-R10(UGA)
 01-SC-NK2    
